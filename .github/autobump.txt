@@ -18,6 +18,7 @@ ableton-live-standard
 ableton-live-standard@11
 ableton-live-suite
 ableton-live-suite@11
+actual
 adguard
 adguard-vpn
 adguard-vpn@nightly
@@ -51,6 +52,8 @@ anydesk
 anydo
 anythingllm
 anytype
+anytype@alpha
+anytype@beta
 apidog
 apidog-europe
 apifox
@@ -92,6 +95,7 @@ binance
 bing-wallpaper
 bitwarden
 bitwig-studio
+black-ink
 blender
 blender@lts
 blitz-gg
@@ -182,6 +186,7 @@ crystalmaker
 curseforge
 cursor
 cyberduck
+cycling74-max
 datadog-agent
 dataflare
 datagrip
@@ -273,6 +278,7 @@ figma
 figma-agent
 figma@beta
 fiji
+finalshell
 finbar
 finch
 find-any-file
@@ -349,6 +355,7 @@ gb-studio
 gcs
 gdevelop
 genesys-cloud
+geoda
 geogebra
 geogebra@5
 git-credential-manager
@@ -386,16 +393,19 @@ hbuilderx
 heptabase
 herd
 heroic
+hhkb-studio
 holavpn
 home-assistant
 hoppscotch
 hstracker
 http-toolkit
 hydrus-network
+hyperbackupexplorer
 hyperkey
 ibackup-viewer
 ibkr
 ibm-cloud-cli
+icollections
 idrive
 igv
 iina+
@@ -429,12 +439,14 @@ joplin
 jordanbaird-ice
 josm
 julia
+julia@lts
 jumpshare
 jupyterlab
 juxtacode
 kaleidoscope
 kdenlive
 kdrive
+keepassxc@snapshot
 keyboard-cowboy
 keyman
 keymapp
@@ -459,6 +471,7 @@ libcblite-community
 libreoffice
 libreoffice-language-pack
 librewolf
+lidarr
 lightburn
 lightkey
 limitless
@@ -470,6 +483,7 @@ livebook
 lm-studio
 logi-options+
 logitech-g-hub
+logitune
 logos
 logseq
 lookaway
@@ -479,6 +493,7 @@ loupedeck
 lunacy
 lunar
 lunar-client
+lynx
 maa
 maccy
 macfuse
@@ -493,6 +508,7 @@ mailbutler
 marked
 markedit
 mcreator
+mdrp
 media-center
 mediainfo
 mediamate
@@ -529,6 +545,7 @@ minecraft-education
 mini-program-studio
 miniforge
 minisim
+minitube
 minizincide
 mist
 mitmproxy
@@ -551,6 +568,7 @@ mongodb-compass-readonly
 mongodb-compass@beta
 morgen
 motion
+motu-m-series
 mountain-duck
 mp3tag
 mqttx
@@ -563,6 +581,7 @@ multiapp
 multitouch
 multiviewer-for-f1
 mumuplayer
+murus
 native-access
 naver-whale
 navicat-for-mariadb
@@ -597,6 +616,7 @@ obs-advanced-scene-switcher
 obs@beta
 obsbot-center
 ocenaudio
+odrive
 okta-advanced-server-access
 ollama
 ollamac
@@ -612,6 +632,7 @@ openlens
 openrct2
 openscad@snapshot
 openshift-client
+openshot-video-editor@daily
 opera
 opera-gx
 opera@beta
@@ -653,8 +674,10 @@ piclist
 pieces
 pieces-os
 pile
+pingplotter
 pitch
 pixel-shift-combiner
+planet
 plasticscm-cloud-edition
 playdate-simulator
 plex
@@ -714,11 +737,14 @@ quicktune
 quip
 racket
 rancher
+rapidapi
+rapidweaver
 razorsql
 readdle-spark
 reader
 readyapi
 reaper
+receipts
 rectangle
 rectangle-pro
 reflect
@@ -749,6 +775,7 @@ rocket-typist
 rode-central
 rotki
 routine
+rouvy
 royal-tsx
 royal-tsx@beta
 rstudio
@@ -824,6 +851,8 @@ stash
 stats
 steamcmd
 steelseries-gg
+steermouse
+steinberg-activation-manager
 studio-3t
 sublime-text@dev
 superhuman
@@ -862,8 +891,11 @@ threema-work
 threema@beta
 ths
 thunderbird
+thunderbird@beta
+thunderbird@esr
 ticktick
 tidelift
+tiger-trade
 timemachinestatus
 timeular
 timing
@@ -899,6 +931,7 @@ twine
 typeface
 typora
 typora@dev
+ubiquiti-unifi-controller
 ueli
 uhk-agent
 ultimate
@@ -917,6 +950,7 @@ vamiga
 vbrokers
 vcam
 vellum
+videofusion
 vienna-assistant
 vimr
 virtualbox@beta
@@ -963,6 +997,7 @@ windows-app
 windscribe
 wing-personal
 wins
+wire
 wondershare-uniconverter
 wordpresscom-studio
 workflowy
@@ -990,6 +1025,7 @@ zen-browser
 zeplin
 znote
 zoc
+zoho-mail
 zoom
 zoom-for-it-admins
 zotero
