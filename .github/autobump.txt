@@ -391,6 +391,7 @@ google-cloud-sdk
 gpg-suite@nightly
 gpxsee
 gqrx
+graalvm-jdk@21
 grammarly-desktop
 grandtotal
 gridtracker
@@ -575,6 +576,7 @@ mmhmm
 mmhmm-studio
 mochi
 mochi-diffusion
+modrinth
 monal
 monal@beta
 monarch
@@ -649,6 +651,7 @@ onekey
 opal-composer
 openaudible
 opencat
+opencore-configurator
 openlens
 openrct2
 openscad@snapshot
@@ -894,6 +897,7 @@ superproductivity
 surfshark
 surge
 swiftformat-for-xcode
+sync
 syncovery
 syncthing
 tabby
