@@ -436,6 +436,7 @@ engine-dj
 enpass
 ente
 ente-auth
+etrecheckpro
 entry
 epic-games
 eset-cyber-security
@@ -534,6 +535,7 @@ font-iosevka-ss17
 font-iosevka-ss18
 font-jetbrains-maple-mono
 font-jetbrains-maple-mono-nf
+font-juliamono
 font-lxgw-neoxihei
 font-lxgw-neozhisong
 font-lxgw-simxihei
@@ -749,6 +751,7 @@ jottacloud
 jprofiler
 julia
 julia@lts
+jump
 jump-desktop-connect
 jumpcloud-password-manager
 jumpshare
@@ -1309,6 +1312,7 @@ rio
 ripme
 rippling
 rive
+reverso
 rivet
 rize
 roam
@@ -1580,6 +1584,7 @@ touch-portal
 touchdesigner
 touchosc
 tower
+tqsl
 trader-workstation
 tradingview
 trae
